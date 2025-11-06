@@ -6,16 +6,6 @@
 🚀 Currently looking for a **Final Year Internship (PFE 2025)** in **Data Engineering, Machine Learning, or Cloud Computing**
 
 ---
-
-### 🧠 About Me  
-
-I’m an engineering student with a strong interest in **artificial intelligence, cloud technologies, and data-driven innovation**.  
-What excites me most is solving real problems — transforming raw data into **insights that guide action** and **systems that learn on their own**.  
-
-I enjoy working on end-to-end data projects: from building pipelines and cleaning messy datasets to deploying predictive models and visualizing results clearly.  
-
----
-
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,6 +20,15 @@ I enjoy working on end-to-end data projects: from building pipelines and cleanin
 </p>
 
 ----
+
+
+
+### 🧠 About Me  
+
+I’m an engineering student with a strong interest in **artificial intelligence, cloud technologies, and data-driven innovation**.  
+What excites me most is solving real problems — transforming raw data into **insights that guide action** and **systems that learn on their own**.  
+
+I enjoy working on end-to-end data projects: from building pipelines and cleaning messy datasets to deploying predictive models and visualizing results clearly.  
 
 ### ⚙️ Technical Stack  
 
