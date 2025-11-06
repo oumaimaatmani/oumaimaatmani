@@ -1,5 +1,6 @@
 # 🌟 Hi there, I'm Oumaima Atmani  
 
+
 🎓 Data & AI Engineering Student at **ENSA Al Hoceima, Morocco**  
 💡 Passionate about turning complex data into smart, impactful decisions  
 🚀 Currently looking for a **Final Year Internship (PFE 2025)** in **Data Engineering, Machine Learning, or Cloud Computing**
@@ -14,6 +15,21 @@ What excites me most is solving real problems — transforming raw data into **i
 I enjoy working on end-to-end data projects: from building pipelines and cleaning messy datasets to deploying predictive models and visualizing results clearly.  
 
 ---
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
+![Data Science](https://img.shields.io/badge/Data%20Science-1572B6?style=flat&logo=scikitlearn&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</p>
+
+----
 
 ### ⚙️ Technical Stack  
 
