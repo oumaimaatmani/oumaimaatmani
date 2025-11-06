@@ -44,7 +44,7 @@ I enjoy working on end-to-end data projects: from building pipelines and cleanin
 
 ### 📫 Let’s Connect  
 
-- 💼 [LinkedIn](www.linkedin.com/in/oumaima-atmani-b61ab429a) * 
+- 💼 [LinkedIn](www.linkedin.com/in/oumaima-atmani-b61ab429a) 
 - 🧰 [GitHub Portfolio](https://github.com/oumaimaatmani)  
 - ✉️ oumaimaatmaniii@gmail.com
 
